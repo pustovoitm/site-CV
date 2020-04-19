@@ -1,0 +1,178 @@
+h1 {
+    font-size: 30px;
+    text-align: center;
+    text-transform: uppercase;
+    border: 3px solid red;
+}
+
+h2 {
+    font-size: 25px;
+    text-align: left;
+    text-transform: uppercase;
+    border: 3px solid pink;
+    margin-bottom: 0;
+}
+
+body {
+    width: 900px;
+    border: 3px solid yellow;
+    text-align:center;
+    margin: 0 auto;
+    background: linear-gradient(to top, #6db7fd 20%, #4e90e4 50%, #86bce4 80%);
+}
+
+.wrapper_contact_info {
+    border: 3px solid fuchsia;
+}
+
+
+.photo {
+    border: 3px solid blue;
+    display: inline-block;
+    vertical-align:middle;
+
+
+
+
+}
+.contact_info {
+    border: 3px solid blue;
+    display: inline-block;
+    text-align: left;
+    font-size: 20px;
+    width: 440px;
+    float: right;
+    vertical-align: middle;
+
+}
+
+ul {
+    text-align: left;
+}
+
+.wrapper_core_skills {
+    border: 3px solid black;
+
+
+}
+
+.core_skills_left,
+.core_skills_right {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 20px;
+    width: 438px;
+
+}
+
+
+
+.core_skills_left {
+    border: 3px solid violet;
+    display: inline-block;
+
+}
+
+.core_skills_right {
+    border: 3px solid cyan;
+
+}
+h3 {
+    font-size: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    border: 3px solid darkgreen;
+    margin-bottom: 0;
+    margin-top: 0px;
+
+}
+.wrapper_courses_and_trainings {
+    border: 3px solid peachpuff;
+
+}
+
+.courses_and_trainings_date,
+.courses_and_trainings{
+    border: 3px solid blue;
+    display: inline-block;
+    padding-top: 0px;
+    font-size: 20px;
+    width: 438px;
+}
+
+.wrapper_education {
+    border: 3px solid #7fff7c;
+
+}
+
+.education_date,
+.education1 {
+    border: 3px solid #ffd329;
+    display: inline-block;
+    padding-top: 0px;
+    font-size: 20px;
+    width: 438px;
+}
+
+.wrapper_experience {
+    border: 3px solid #7fff7c;
+
+}
+
+.experience_date,
+.experience1 {
+    border: 3px solid #ffd329;
+    display: inline-block;
+    padding-top: 0px;
+    font-size: 20px;
+    width: 438px;
+}
+
+.wrapper_languages {
+    border: 3px solid lightcoral;
+
+}
+
+.languages1, .level, .languages2 {
+    font-size: 20px;
+
+}
+.languages1 {
+    border: 3px solid #f01794;
+    display: inline-block;
+    float: left;
+    width: 150px;
+
+}
+
+.level {
+    border: 3px solid #7d26f0;
+    display: inline-block;
+    float: ;
+    width: 288px;
+}
+
+.languages2 {
+    border: 3px solid #3067f0;
+    display: inline-block;
+    margin-right: auto;
+    float: right;
+    width: 438px;
+
+}
+
+.p{
+    border: 3px solid #7d26f0;
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
